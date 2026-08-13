@@ -1,0 +1,11 @@
+{
+  "name": "tw-analytics",
+  "version": "0.1.0",
+  "description": "Lightweight page view analytics for TW Framework",
+  "hooks": [
+    "afterBuild"
+  ],
+  "permissions": [
+    "readBuildOutput"
+  ]
+}
