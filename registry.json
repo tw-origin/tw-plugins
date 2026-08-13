@@ -11,8 +11,8 @@
       ],
       "url": "plugins/tw-analytics/",
       "files": [
-        "manifest.json",
-        "index.js"
+        "plugin.json",
+        "plugin.twp"
       ],
       "checksums": {}
     }
