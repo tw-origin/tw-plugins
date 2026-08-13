@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "plugins": [
+    {
+      "name": "tw-analytics",
+      "version": "0.1.0",
+      "description": "Lightweight page view analytics for TW Framework",
+      "author": "TW Team",
+      "hooks": [
+        "afterBuild"
+      ],
+      "url": "plugins/tw-analytics/",
+      "files": [
+        "manifest.json",
+        "index.js"
+      ],
+      "checksums": {}
+    }
+  ]
+}
